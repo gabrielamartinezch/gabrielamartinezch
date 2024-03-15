@@ -3,7 +3,7 @@
 ✨About me
 
 Contact me
-
+<a href="https://www.linkedin.com/in/maria-gabrielamartinez-chacon/">LinkedIn</a>
 Experience 
 
 Education 

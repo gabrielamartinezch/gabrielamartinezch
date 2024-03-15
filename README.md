@@ -2,7 +2,12 @@
 
 ✨About me
 
+Welcome to my profile! I'm full-stack software developer student. 
+
+
 Contact me
+
+<a href="https://www.linkedin.com/in/maria-gabrielamartinez-chacon/">LinkedIn</a>
 
 Experience 
 

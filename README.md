@@ -1,15 +1,32 @@
-### Hi! I'm Gabriela
+## Hi! I'm Gabriela
 
-✨About me
+#### ✨About me
 
-Contact me
+Translator, Project Manager and Full-Stack Software Depeloper student.
+<br>Discovering the world of programming.
 
-Experience 
+>> HTML | CSS | to be continued...
 
-Education 
 
-Languages 
+#### Contact me
+<a href="www.linkedin.com/in/maria-gabrielamartinez-chacon">LinkedIn</a>
+<br>gabymch20@gmail.com
+<br>0034666061583  
 
+#### Experience 
+
+I'm currently working as Translation Project Manager in Acolad (Spain)
+
+#### Education 
+
+<ul>
+  <li>2024: Full-Stack Software Developer | 4Geeks Academy Spain</li>
+  <li>2018-2021: Degree in Translation and Intercultural Communication | Universidad Europea de Valencia</li>
+</ul>
+
+#### 💬Languages 
+
+Spanish: native | English: C1 | German: A2
 
 <!--
 **gabrielamartinezch/gabrielamartinezch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
